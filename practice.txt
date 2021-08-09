@@ -1,0 +1,6 @@
+--git practice session
+ --git commands
+git --version
+git config --global user.name = "name"
+git config --global user.email="mailid"
+git clone <repo URL>
